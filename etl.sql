@@ -1,0 +1,3 @@
+-- Active: 1718486638191@@localhost@5432@postgres
+--- create DATABASE miprimerETL
+--- USE miprimerETL;
